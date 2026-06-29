@@ -1,14 +1,25 @@
 ---
-title: "Paper Title Number 1"
+title: "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/synlogic
+excerpt: 'We synthesize large-scale verifiable reasoning data to improve the logical reasoning capabilities of large language models.'
+date: 2025-05-22
+venue: 'arXiv preprint arXiv:2506.10060'
+paperurl: 'https://arxiv.org/abs/2506.10060'
+citation: 'Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. (2025). "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond." <i>arXiv preprint arXiv:2506.10060</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+SynLogic introduces a framework for synthesizing large-scale, automatically verifiable reasoning data to train and evaluate the logical reasoning abilities of large language models. The project provides a publicly available codebase.
+
+Recommended citation (BibTeX):
+```
+@misc{liu2025synlogic,
+  title={SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond},
+  author={Liu, Junteng and Fan, Yuanxiang and Jiang, Zhuo and Ding, Han and Hu, Yongyi and Zhang, Chi and Shi, Yiqi and Weng, Shitong and Chen, Aili and Chen, Shiqi and Huang, Yunan and Zhang, Mozhi and Zhao, Pengyu and Yan, Junjie and He, Junxian},
+  year={2025},
+  eprint={2506.10060},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL}
+}
+```
